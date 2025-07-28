@@ -2,6 +2,12 @@
 
 # Image Captioner App 📸
 
+![Data Science](https://img.shields.io/badge/Data%20Science-Project-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Models-orange)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Models-red)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 Generate creative, platform-specific captions for your images using the Gemini API. This app leverages Hugging Face for seamless deployment and ease of access.
 
 ## Description
